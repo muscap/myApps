@@ -1,4 +1,4 @@
-myApps
+myShop
 ======
 
 myAppStorage
